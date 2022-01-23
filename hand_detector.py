@@ -86,4 +86,3 @@ class HandDetector():
         xp, yp = int((x1+x2)/2), int((y1+y2)/2)
         return xp, yp
         
-
